@@ -1,0 +1,8 @@
+name: 'Purge Acquia Cloud support'
+type: module
+description: "Provides appropriate cache tags for Acquia Cloud Varnish."
+package: Purge
+version: VERSION
+core: 8.x
+dependencies:
+  - purge
